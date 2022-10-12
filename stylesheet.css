@@ -4,3 +4,23 @@ html {
     padding: 0;
 }
 
+.index-1 {
+    display: flex;
+}
+
+.textbox { position: relative }
+
+.textbox input[type="text"] {
+    width: 40rem;
+    height: 27px;
+    line-height: normal;
+    padding: .4em .5em;
+    font-family: inherit;
+    border-radius: 0;
+    border: 1px solid #999;
+    outline-style: solid;
+    outline-width: 3px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
