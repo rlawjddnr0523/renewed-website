@@ -6,7 +6,7 @@
 </header>
 <body>
     <div class="index-1 header top">
-        <div class="title-img img1"><img src="./eddmaster.png" width="300" height="27"></div>
+        <a href="index.php" class="title-img img1"><img src="./eddmaster.png"></a>
         <form method="get" action="search.php">
             <div class="textbox">
                 <input type="text" id="lb" class="textbox-1" placeholder="검색어를 입력하세요.">
